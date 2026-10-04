@@ -11,4 +11,3 @@ I'm tech-agnostic and fundamentals first. I pick the tools that fit the problem,
 - [**NAPAS Jakarta**](https://napasjakarta.armasn.dev) — Live Jakarta air-quality map with an AI assistant that answers questions from real monitor readings.
 - [**ServersUp**](https://serversup.armasn.dev) — Live status board for World of Warcraft and Final Fantasy XIV realms, plus a Discord bot that alerts your channel the moment a server goes down.
 - [**Portfolio**](https://portfolio.armasn.dev) — My site: work case studies, built with Astro, plain CSS, and Cloudflare Workers.
-- [**armasn.dev**](https://armasn.dev) — Personal site.
